@@ -21,3 +21,5 @@ const myFunc = function() {
 
 let changeText = document.getElementById("output");
 changeText.textContent = "Hello Mother Fucker!";
+
+console.log("Hello Mother Fucker!");
