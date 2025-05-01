@@ -14,3 +14,7 @@ for (let value of mySet) {
 for (let i = myArray.length -1; i = myArray.length; i --) {
     return myArray[i];
 }
+
+const myFunc = function() {
+    return "Hello Mother Fucker";
+}
