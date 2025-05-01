@@ -18,3 +18,6 @@ for (let i = myArray.length -1; i = myArray.length; i --) {
 const myFunc = function() {
     return "Hello Mother Fucker";
 }
+
+let changeText = document.getElementById("output");
+changeText.textContent = "Hello Mother Fucker!";
