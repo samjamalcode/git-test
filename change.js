@@ -22,3 +22,8 @@ const myFunc = function() {
 let changeText = document.getElementById("output");
 changeText.textContent = "Hello Mother Fucker!";
 
+const addNumber = function() {
+    let result = [];
+    let userElement = window.prompt("Enter your name");
+    return result.push(userElement);
+}
